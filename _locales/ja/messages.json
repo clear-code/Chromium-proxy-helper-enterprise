@@ -1,6 +1,6 @@
 {
     "appName": {
-        "message" : "プロキシーヘルパー"
+        "message" : "Proxy Helper Enterprise"
     },
     "appDesc": {
         "message" : "Chromiumベースのブラウザーのプロキシーサーバーを設定します"
