@@ -3,7 +3,7 @@
         "message": "Proxy Helper"
     },
     "appDesc": {
-        "message": "Set proxy for Google Chrome browser"
+        "message": "Set proxy for Chromium based browsers"
     },
     "title": {
         "message": "Proxy Helper"

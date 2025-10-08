@@ -3,7 +3,7 @@
         "message" : "代理助手"
     },
     "appDesc": {
-        "message" : "为Google Chrome 浏览器设置代理"
+        "message" : "为Chromium 浏览器设置代理"
     },
     "title" : {
         "message" : "代理助手"

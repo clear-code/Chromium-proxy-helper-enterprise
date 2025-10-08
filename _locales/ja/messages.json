@@ -3,7 +3,7 @@
         "message" : "プロキシーヘルパー"
     },
     "appDesc": {
-        "message" : "Google Chromeのプロキシーサーバーを設定します"
+        "message" : "Chromiumベースのブラウザーのプロキシーサーバーを設定します"
     },
     "title" : {
         "message" : "プロキシーヘルパー"
